@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "product": {
+    "repository": "https://github.com/yuelioi/yotta",
+    "version": "4.0.0-alpha.3"
+  },
+  "documentationRepository": "https://github.com/yottaapp/docs",
+  "package": "docs.zip",
+  "defaultLocale": "zh-CN",
+  "locales": ["zh-CN", "en-US"]
+}
